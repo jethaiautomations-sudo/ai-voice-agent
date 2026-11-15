@@ -78,4 +78,4 @@ End the test call with:
 
 ---
 
-Built by **Jeth Divina**, AI Automation Specialist · [LinkedIn](https://www.linkedin.com/in/jeth-d-b18459244/)
+Built by **Jeth Divina**, AI Automation Specialist · [LinkedIn](https://www.linkedin.com/in/jethdivina/)
